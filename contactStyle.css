@@ -1,0 +1,77 @@
+.topnav {
+    background-color: #ffffff;
+    overflow: hidden;
+    border-bottom: solid 3px rgb(223, 106, 149);
+}
+    .topnav a {
+        float: right;
+        color: #060000;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      .topnav a:hover {
+        background-color: #ed606c;
+        color: white;
+        font-size: 20px;
+        border-radius: 5px;
+        transition-timing-function: ease-in-out;
+        transition-delay: 0.2s;
+        
+    }
+    h1{
+        text-align: center;
+        padding-top: 50px;
+        font-size: 40px;
+        font-family: "Playfair Display", serif;
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    span{
+        font-size: 70px;
+        color: #ed606c;
+    }
+    .contactMe{
+        padding: 30px;
+    }
+    .info{
+        padding: 40px;
+    }
+.linkedin{
+        float: left;
+        width: 30%;
+        height: 180px;
+        padding-left:20px;
+        text-align: center;
+       
+        
+}
+.phone{
+        float: left;
+        width: 35%;
+        height: 280px;
+        text-align: center;
+}
+.email{
+        float: right;
+        width: 20%;
+        height: 280px;
+        padding-right: 60px;
+        text-align: center;
+}
+.fa-linkedin{
+        font-size: 60px;
+}
+.fa-phone-volume{
+    font-size: 60px;
+}
+.fa-envelope{
+    font-size: 60px;
+
+}
+a{
+    color: #060000;
+    text-decoration: none;
+}
